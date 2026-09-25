@@ -45,4 +45,4 @@ Script Node sem dependências que audita um site estático página por página e
 
 ## License
 
-MIT.
+Apache-2.0. Copyright (c) 2026 Felipe Guedes (fgxdev.com). Redistributions must keep the NOTICE file and mark any changes.
